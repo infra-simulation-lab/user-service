@@ -26,4 +26,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: saurabh123/user-service:latest
+        tags: dolarsingh/user-service:latest
